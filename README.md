@@ -1,8 +1,7 @@
 # your track to web development with python 
 ***
 
-![python logo](https://thumbsplus.tutsplus.com/uploads/users/34/posts/28587/preview_image/tutspluspython.png?height=300&width=300)
-
+![python](http://miriamposner.com/classes/dh101f16/wp-content/uploads/sites/5/2016/11/Python_logo.png)
 *  in CATReloaded we have some plans for many fields like (web development front/back-end - Android - data science -...etc).
 * you can see our events, coming events and projects in our FB page : https://goo.gl/VjQ57o .
 * also you can find the plan in Google Docs : https://goo.gl/DUaX6k .
