@@ -1,5 +1,3 @@
-
-
 # your track to web development with python 
 ***
 
@@ -7,7 +5,7 @@
 
 *  in CATReloaded we have some plans for many fields like (web development front/back-end - Android - data science -...etc).
 * you can our events and projects in our FB page : https://goo.gl/VjQ57o .
-also you can find the plan in Google Docs : https://goo.gl/DUaX6k .
+* also you can find the plan in Google Docs : https://goo.gl/DUaX6k .
 
 * if you have any recommendation or modification on the plan even if you have questions don't hesitate to contact with me,I will be happy to answer you questions, I will add my contacts below the plan
 
