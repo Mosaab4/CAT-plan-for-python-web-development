@@ -4,7 +4,7 @@
 ![python logo](https://thumbsplus.tutsplus.com/uploads/users/34/posts/28587/preview_image/tutspluspython.png?height=300&width=300)
 
 *  in CATReloaded we have some plans for many fields like (web development front/back-end - Android - data science -...etc).
-* you can our events and projects in our FB page : https://goo.gl/VjQ57o .
+* you can see our events, coming events and projects in our FB page : https://goo.gl/VjQ57o .
 * also you can find the plan in Google Docs : https://goo.gl/DUaX6k .
 
 * if you have any recommendation or modification on the plan even if you have questions don't hesitate to contact with me,I will be happy to answer you questions, I will add my contacts below the plan
@@ -28,7 +28,7 @@ https://goo.gl/5EooXr
 
 ***
 # Entry Level
-
+![flask](http://flask.pocoo.org/static/logo/flask.png)
 ## Learn python ,database , basics of HTML , HTTP , main back-end concepts , and micro framework “flask”.
  
 ### Udacity 
@@ -74,6 +74,7 @@ Flask Web Development : Developing Web Applications with Python
 
 ***
 # Intermediate Level
+![django](https://i0.wp.com/edlibre.com/new/wp-content/uploads/2016/02/djangopony.jpg)
 
 ## Continue learning python , learn about django framework
 ----------------------------------------------------------------------------------
