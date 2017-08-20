@@ -115,7 +115,10 @@ https://goo.gl/rHa0PZ
 ----------------------------------------------------------------------------------
 ### Books
 Two Scoops of Django: Best Practices for Django 1.8 
-----------------------------------------------------------------------------------
+
+
+***
+
 ### Deploy your Web App with Heroku (available offline):
 https://goo.gl/w8EcDt
 
@@ -124,19 +127,19 @@ https://goo.gl/w8EcDt
 ## Advanced projects with django .
 
 ### try django 1.9 series
-1- Blog with django(Recommended) :
+1. Blog with django(Recommended) :
 https://goo.gl/42ktYx
 
-2- advancing the blog(Recommended) : 
+2. advancing the blog(Recommended) : 
 https://goo.gl/urME13
 
-3- Blog API with django(Recommended):
+3. Blog API with django(Recommended):
 https://goo.gl/QE2LXd
 ----------------------------------------------------------------------------------
 ### advanced topics
-1- Angular + django
+1. Angular + django
 https://goo.gl/CZ2ete
-2- advanced twitter-like app using(bootstrap-jQuery-ajax):
+2. advanced twitter-like app using(bootstrap-jQuery-ajax):
 https://goo.gl/qufkTL
 
 
